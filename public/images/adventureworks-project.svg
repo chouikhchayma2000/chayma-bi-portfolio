@@ -1,0 +1,25 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" fill="#050914"/>
+<circle cx="1030" cy="90" r="220" fill="#2F80ED" opacity="0.22"/>
+<rect x="90" y="80" width="1020" height="560" rx="38" fill="#0D1728" stroke="#213450"/>
+<text x="140" y="155" fill="#58A6FF" font-family="Arial" font-size="28" font-weight="700">AdventureWorks Data Warehouse</text>
+<text x="140" y="202" fill="#F8FBFF" font-family="Arial" font-size="48" font-weight="800">Incremental ETL with SSIS</text>
+<g transform="translate(140 270)">
+<rect width="190" height="118" rx="22" fill="#101D33" stroke="#2F80ED"/>
+<text x="34" y="68" fill="#F8FBFF" font-family="Arial" font-size="22" font-weight="700">OLTP</text>
+<path d="M220 59H330" stroke="#58A6FF" stroke-width="6" stroke-linecap="round"/>
+<path d="M315 42L335 59L315 76" stroke="#58A6FF" stroke-width="6" stroke-linecap="round"/>
+<rect x="360" width="190" height="118" rx="22" fill="#101D33" stroke="#58A6FF"/>
+<text x="392" y="68" fill="#F8FBFF" font-family="Arial" font-size="22" font-weight="700">Staging</text>
+<path d="M580 59H690" stroke="#58A6FF" stroke-width="6" stroke-linecap="round"/>
+<path d="M675 42L695 59L675 76" stroke="#58A6FF" stroke-width="6" stroke-linecap="round"/>
+<rect x="720" width="190" height="118" rx="22" fill="#101D33" stroke="#2F80ED"/>
+<text x="746" y="68" fill="#F8FBFF" font-family="Arial" font-size="22" font-weight="700">Star Schema</text>
+</g>
+<g transform="translate(160 470)">
+<rect width="160" height="72" rx="18" fill="#2F80ED" opacity="0.85"/><text x="36" y="44" fill="white" font-family="Arial" font-size="18" font-weight="700">DimProduct</text>
+<rect x="190" width="160" height="72" rx="18" fill="#FFFFFF" opacity="0.09"/><text x="228" y="44" fill="white" font-family="Arial" font-size="18" font-weight="700">DimVendor</text>
+<rect x="380" width="160" height="72" rx="18" fill="#FFFFFF" opacity="0.09"/><text x="416" y="44" fill="white" font-family="Arial" font-size="18" font-weight="700">DimDate</text>
+<rect x="570" width="240" height="72" rx="18" fill="#58A6FF" opacity="0.85"/><text x="616" y="44" fill="#06101f" font-family="Arial" font-size="18" font-weight="800">FactPurchaseOrder</text>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" fill="#050914"/>
+<circle cx="210" cy="120" r="220" fill="#58A6FF" opacity="0.16"/>
+<circle cx="980" cy="620" r="260" fill="#2F80ED" opacity="0.22"/>
+<rect x="90" y="80" width="1020" height="560" rx="38" fill="#0D1728" stroke="#213450"/>
+<text x="140" y="155" fill="#58A6FF" font-family="Arial" font-size="28" font-weight="700">Data Science Project</text>
+<text x="140" y="202" fill="#F8FBFF" font-family="Arial" font-size="48" font-weight="800">Agricultural Climate Prediction</text>
+<path d="M160 520C240 420 280 350 370 380C450 407 435 500 520 455C620 402 640 270 760 300C850 322 870 420 1020 275" stroke="#58A6FF" stroke-width="10" stroke-linecap="round" fill="none"/>
+<g transform="translate(150 280)">
+<rect width="210" height="130" rx="24" fill="#101D33" stroke="#2F80ED"/>
+<text x="30" y="54" fill="#F8FBFF" font-family="Arial" font-size="20" font-weight="700">NASA POWER</text>
+<text x="30" y="88" fill="#A9B7CA" font-family="Arial" font-size="17">Climate data</text>
+</g>
+<g transform="translate(420 280)">
+<rect width="210" height="130" rx="24" fill="#101D33" stroke="#58A6FF"/>
+<text x="30" y="54" fill="#F8FBFF" font-family="Arial" font-size="20" font-weight="700">EDA</text>
+<text x="30" y="88" fill="#A9B7CA" font-family="Arial" font-size="17">Patterns &amp; risks</text>
+</g>
+<g transform="translate(690 280)">
+<rect width="270" height="130" rx="24" fill="#101D33" stroke="#2F80ED"/>
+<text x="30" y="54" fill="#F8FBFF" font-family="Arial" font-size="20" font-weight="700">Machine Learning</text>
+<text x="30" y="88" fill="#A9B7CA" font-family="Arial" font-size="17">MAE ≈ 1.77°C</text>
+</g>
+</svg>

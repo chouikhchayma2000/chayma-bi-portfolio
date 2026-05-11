@@ -1,0 +1,79 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/_not-found/page-eaa53ae320539b27.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/css/ba9020230c6dd994.css",
+      "static/chunks/972-fe008c56cc430895.js",
+      "static/chunks/app/layout-3e0a953335996bef.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/972-fe008c56cc430895.js",
+      "static/chunks/app/page-4d9ae3148277aac0.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/contact/page-18569336a7bfc0b0.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/878-4540310b9c3960a7.js",
+      "static/chunks/app/about/page-aaf77c185cda435e.js"
+    ],
+    "/projects/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/972-fe008c56cc430895.js",
+      "static/chunks/app/projects/page-6f482afacd59f811.js"
+    ],
+    "/skills/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/skills/page-d4efbac85baeab37.js"
+    ],
+    "/projects/agricultural-climate-prediction/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/projects/agricultural-climate-prediction/page-3c8e82f19b352af8.js"
+    ],
+    "/projects/ssas-olap-cube-analysis/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/projects/ssas-olap-cube-analysis/page-ac2b104c609b813d.js"
+    ],
+    "/projects/adventureworks-incremental-data-warehouse/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/projects/adventureworks-incremental-data-warehouse/page-982bbc14b2c59c75.js"
+    ]
+  }
+}

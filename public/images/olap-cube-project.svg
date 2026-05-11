@@ -1,0 +1,28 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#050914"/>
+  <circle cx="1020" cy="100" r="260" fill="#2F80ED" opacity="0.22"/>
+  <circle cx="180" cy="620" r="260" fill="#58A6FF" opacity="0.12"/>
+  <rect x="88" y="86" width="1024" height="548" rx="40" fill="#0D1728" stroke="rgba(255,255,255,0.14)"/>
+  <rect x="126" y="126" width="948" height="84" rx="24" fill="#101D33" stroke="rgba(255,255,255,0.12)"/>
+  <text x="162" y="178" fill="#F8FBFF" font-size="34" font-family="Arial, sans-serif" font-weight="700">SSAS OLAP Cube Analysis</text>
+  <text x="162" y="202" fill="#A9B7CA" font-size="18" font-family="Arial, sans-serif">Drill-down • Roll-up • Slice • Dice • MDX</text>
+
+  <g transform="translate(165 280)">
+    <polygon points="150,0 300,70 150,140 0,70" fill="#2F80ED" opacity="0.95"/>
+    <polygon points="0,70 150,140 150,300 0,230" fill="#1264C8" opacity="0.95"/>
+    <polygon points="300,70 150,140 150,300 300,230" fill="#58A6FF" opacity="0.85"/>
+    <path d="M50 95L200 25M100 120L250 50M50 255L200 185M0 150L150 220M150 175L300 105M150 240L300 170" stroke="white" stroke-opacity="0.22" stroke-width="3"/>
+    <circle cx="150" cy="140" r="10" fill="#F8FBFF"/>
+  </g>
+
+  <g transform="translate(560 270)">
+    <rect width="430" height="52" rx="16" fill="rgba(47,128,237,0.14)" stroke="rgba(88,166,255,0.35)"/>
+    <text x="22" y="34" fill="#F8FBFF" font-size="20" font-family="Arial" font-weight="700">Measures</text>
+    <rect y="76" width="430" height="52" rx="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)"/>
+    <text x="22" y="109" fill="#A9B7CA" font-size="18" font-family="Arial">Impressions • Clicks • Conversions</text>
+    <rect y="152" width="430" height="52" rx="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)"/>
+    <text x="22" y="185" fill="#A9B7CA" font-size="18" font-family="Arial">Cost • Sales • Conversion Rate</text>
+    <rect y="228" width="430" height="52" rx="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)"/>
+    <text x="22" y="261" fill="#A9B7CA" font-size="18" font-family="Arial">Campaign • Date • Device • Location</text>
+  </g>
+</svg>

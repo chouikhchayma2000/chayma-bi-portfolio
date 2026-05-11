@@ -1,0 +1,24 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="900" fill="#06101f"/>
+<circle cx="920" cy="170" r="250" fill="#2F80ED" opacity="0.28"/>
+<circle cx="260" cy="790" r="300" fill="#58A6FF" opacity="0.13"/>
+<path d="M0 720C170 610 290 680 450 570C650 432 740 165 1200 224V900H0V720Z" fill="#0E1B2F"/>
+<g opacity="0.95">
+<rect x="160" y="160" width="520" height="320" rx="34" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.18"/>
+<rect x="205" y="220" width="280" height="22" rx="11" fill="#58A6FF"/>
+<rect x="205" y="272" width="380" height="18" rx="9" fill="#D8E3F2" opacity="0.48"/>
+<rect x="205" y="318" width="330" height="18" rx="9" fill="#D8E3F2" opacity="0.33"/>
+<rect x="205" y="382" width="95" height="46" rx="23" fill="#2F80ED"/>
+<rect x="322" y="382" width="150" height="46" rx="23" fill="#FFFFFF" opacity="0.1"/>
+</g>
+<g transform="translate(690 360)">
+<rect width="350" height="330" rx="34" fill="#FFFFFF" opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.18"/>
+<path d="M70 244V150" stroke="#58A6FF" stroke-width="26" stroke-linecap="round"/>
+<path d="M138 244V92" stroke="#2F80ED" stroke-width="26" stroke-linecap="round"/>
+<path d="M206 244V128" stroke="#58A6FF" stroke-width="26" stroke-linecap="round"/>
+<path d="M274 244V58" stroke="#2F80ED" stroke-width="26" stroke-linecap="round"/>
+<path d="M54 252H298" stroke="#D8E3F2" stroke-opacity="0.3" stroke-width="8" stroke-linecap="round"/>
+</g>
+<text x="170" y="650" fill="#F8FBFF" font-family="Arial" font-size="62" font-weight="800">BI &amp; Data Analytics</text>
+<text x="170" y="710" fill="#A9B7CA" font-family="Arial" font-size="30">Dashboards • ETL • Machine Learning</text>
+</svg>
