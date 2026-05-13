@@ -58,9 +58,7 @@ export const metadata: Metadata = {
     images: ["/og-image.svg"]
   },
 
-  alternates: {
-    canonical: "/"
-  }
+
 };
 
 export default function RootLayout({
