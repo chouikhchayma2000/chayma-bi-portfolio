@@ -24,6 +24,20 @@
       "static/chunks/972-fe008c56cc430895.js",
       "static/chunks/app/page-4d9ae3148277aac0.js"
     ],
+    "/contact/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/contact/page-a6eb5dc3ba87fd79.js"
+    ],
+    "/projects/adventureworks-incremental-data-warehouse/page": [
+      "static/chunks/webpack-c8441f2d519541e3.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-e5476d4bdcce692a.js",
+      "static/chunks/main-app-64fe0c1194a0ee22.js",
+      "static/chunks/app/projects/adventureworks-incremental-data-warehouse/page-9c46fa43562560bd.js"
+    ],
     "/about/page": [
       "static/chunks/webpack-c8441f2d519541e3.js",
       "static/chunks/fd9d1056-749e5812300142af.js",
@@ -32,33 +46,19 @@
       "static/chunks/878-4540310b9c3960a7.js",
       "static/chunks/app/about/page-aaf77c185cda435e.js"
     ],
-    "/projects/adventureworks-incremental-data-warehouse/page": [
-      "static/chunks/webpack-c8441f2d519541e3.js",
-      "static/chunks/fd9d1056-749e5812300142af.js",
-      "static/chunks/117-e5476d4bdcce692a.js",
-      "static/chunks/main-app-64fe0c1194a0ee22.js",
-      "static/chunks/app/projects/adventureworks-incremental-data-warehouse/page-c8a20a90fd0c7494.js"
-    ],
     "/projects/agricultural-climate-prediction/page": [
       "static/chunks/webpack-c8441f2d519541e3.js",
       "static/chunks/fd9d1056-749e5812300142af.js",
       "static/chunks/117-e5476d4bdcce692a.js",
       "static/chunks/main-app-64fe0c1194a0ee22.js",
-      "static/chunks/app/projects/agricultural-climate-prediction/page-fc82a43b4da7f14d.js"
-    ],
-    "/skills/page": [
-      "static/chunks/webpack-c8441f2d519541e3.js",
-      "static/chunks/fd9d1056-749e5812300142af.js",
-      "static/chunks/117-e5476d4bdcce692a.js",
-      "static/chunks/main-app-64fe0c1194a0ee22.js",
-      "static/chunks/app/skills/page-8fa9f6a7f4effb3d.js"
+      "static/chunks/app/projects/agricultural-climate-prediction/page-dbab58a365b9dba2.js"
     ],
     "/projects/ssas-olap-cube-analysis/page": [
       "static/chunks/webpack-c8441f2d519541e3.js",
       "static/chunks/fd9d1056-749e5812300142af.js",
       "static/chunks/117-e5476d4bdcce692a.js",
       "static/chunks/main-app-64fe0c1194a0ee22.js",
-      "static/chunks/app/projects/ssas-olap-cube-analysis/page-9c540aaec708656d.js"
+      "static/chunks/app/projects/ssas-olap-cube-analysis/page-ab0eddd86a9fd630.js"
     ],
     "/projects/page": [
       "static/chunks/webpack-c8441f2d519541e3.js",
@@ -68,12 +68,12 @@
       "static/chunks/972-fe008c56cc430895.js",
       "static/chunks/app/projects/page-6f482afacd59f811.js"
     ],
-    "/contact/page": [
+    "/skills/page": [
       "static/chunks/webpack-c8441f2d519541e3.js",
       "static/chunks/fd9d1056-749e5812300142af.js",
       "static/chunks/117-e5476d4bdcce692a.js",
       "static/chunks/main-app-64fe0c1194a0ee22.js",
-      "static/chunks/app/contact/page-ddc37e0098ea6b0a.js"
+      "static/chunks/app/skills/page-e66f7d7ef44f22e0.js"
     ]
   }
 }
