@@ -10,7 +10,7 @@ const projects = [
   },
   {
     title: "SSAS OLAP Cube Analysis",
-    description: "OLAP cube project using SSAS and MDX to analyze marketing KPIs with slice, dice, drill-down, roll-up and pivot operations.",
+    description: "OLAP cube project using SSAS and MDX to analyze marketing KPIs with slice, dice, drill-down, roll-up  operations.",
     href: "/projects/ssas-olap-cube-analysis",
     image: "/images/olap-cube-project.svg",
     tags: ["SSAS", "OLAP", "MDX", "Marketing Analytics"]
